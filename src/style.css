@@ -48,6 +48,7 @@ a {
     width: 60%;
     font-size: 1.05rem;
     padding-right: 20px;
+    text-align: justify;
 }
 
 .text-and-photo img {
@@ -66,12 +67,9 @@ a {
 }
 
 .projects img {
-    width: 15px;
+    width: 40%;
 }
 
-p {
-    align-items: center;
-}
 
 /* Skills */
 
